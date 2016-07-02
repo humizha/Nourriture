@@ -1,5 +1,5 @@
 产品BACKLOG
-ID    Name	        Imp     Est	    How to demo	Notes
+ID    Name	            Imp     Est	        How to demo	Notes
 1	静态网页设计	    40	    3	      展示静态网页	寻找合适的模板
 2	商家登录	        30	    3	      登录，商家输入帐号密码，若匹配，则登录成功	
 3	商家注册	        30	    2	      商家输入信息，系统将信息存入后台数据库，注册成功	
